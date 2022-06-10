@@ -1,0 +1,45 @@
+.campo{
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.formulario{
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 2rem;
+    margin-bottom: 50px;
+    border-radius: 1rem;
+}
+
+.formulario legend{
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    width: 100%;
+    padding: .5rem;
+}
+.btn:hover{
+    cursor: pointer;
+}
+
+.btn-primary{
+    background-color:#044875;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    padding: .5rem;
+    margin: auto;
+    border: none;
+}
+
+.campo label{
+    color: black;
+    margin-bottom: .5rem;
+    display: block;
+}
